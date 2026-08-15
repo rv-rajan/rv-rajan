@@ -86,9 +86,9 @@ Git/GitHub  ████████████░░░░░░░░   60%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajanverma7080&show_icons=true&hide_border=true&count_private=true" height="180">
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rajanverma7080&show_icons=true&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanverma7080&layout=compact&hide_border=true" height="180">
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajanverma7080&layout=compact&hide_border=true)
 
 </div>
 
