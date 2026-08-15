@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Rajan Verma
 
-### 💻 Developer | 🚀 Tech Enthusiast | 🌱 Always Learning
-
+### 🤖 AI & ML Enthusiast | 📊 Data Science Learner | 🐍 Python Developer
 <p>
   <a href="https://github.com/Rajanverma7080">
     <img src="https://img.shields.io/badge/GitHub-Rajanverma7080-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -14,31 +13,50 @@
 
 ---
 
-## 💻 About Me
+# 💻 About Me
 
-- 👋 Hi! I'm **Rajan Verma**
-- 💻 I'm learning **Web Development & Programming**
-- 🌱 Currently learning **HTML, CSS, JavaScript and Python**
-- 🚀 I enjoy building projects and learning new technologies
-- 🎯 My goal is to become a skilled software developer
-- 📚 Always learning. Always improving.
+- 🤖 My goal is to build a career in **Artificial Intelligence & Machine Learning**
+- 📊 I'm interested in **Data Science, Data Analysis & Predictive Modeling**
+- 🐍 Currently developing my skills in **Python**
+- 📚 Learning **NumPy, Pandas, Matplotlib, Seaborn & Scikit-learn**
+- 🧠 Interested in **Machine Learning, Deep Learning & Generative AI**
+- 🗄️ Learning **SQL and working with data**
+- 🚀 Building projects to turn data into useful insights and intelligent solutions
+- 🎯 My long-term goal is to become an **AI/ML & Data Science professional**
+
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+### 🐍 Programming
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### Tools
+### 📊 Data Science
 
 <p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -110,8 +128,11 @@
 ## 🎯 2026 Goals
 
 - [ ] Build real-world projects
-- [ ] Improve JavaScript
+- [ ] Machine Learning
+- [ ] Data Science
 - [ ] Improve Python
+- [ ] Improve Numpy
+- [ ] Improve Numpy
 - [ ] Learn Git & GitHub
 - [ ] Learn modern web development
 - [ ] Build a developer portfolio
