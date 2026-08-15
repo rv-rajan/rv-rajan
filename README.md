@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/Rajanverma7080">
-    <img src="https://img.shields.io/badge/GitHub-Rajanverma7080-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Rajanverma7080-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -14,13 +14,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💻 About Me
 
+- 👋 Hi! I'm **Rajan Verma**
 - 💻 I'm learning **Web Development & Programming**
-- 🌱 Currently improving my skills in **HTML, CSS, JavaScript & Python**
-- 🚀 I enjoy creating projects and experimenting with new technologies
+- 🌱 Currently learning **HTML, CSS, JavaScript and Python**
+- 🚀 I enjoy building projects and learning new technologies
 - 🎯 My goal is to become a skilled software developer
-- 📚 Always learning something new
+- 📚 Always learning. Always improving.
 
 ---
 
@@ -45,52 +46,77 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajanverma7080&show_icons=true&hide_border=true&rank_icon=github">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajanverma7080&hide_border=true&area=true">
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajanverma7080&theme=flat&no-frame=true&margin-w=10">
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🌐 Web Development
-Projects built using HTML, CSS and JavaScript.
+| Project | Description |
+|---|---|
+| 🚗 **Arivo_Passenger_App** | Passenger application project |
+| 🚗 **Arivo_Passenger** | Passenger-related project |
+| 🐍 **Assignment_01** | Python assignment |
+| 🐍 **Assignment_02** | Python assignment |
 
-### 🐍 Python Projects
-Python programs and applications I'm building while learning.
+> ⭐ I'll replace these with my best projects as I build them.
 
-### 💻 More Projects Coming Soon
-I'm continuously working on new projects and improving my skills.
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajanverma7080&theme=github_dark">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajanverma7080&theme=github_dark">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajanverma7080&theme=github_dark">
+
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
 - [ ] Build real-world projects
-- [ ] Improve JavaScript skills
-- [ ] Improve Python skills
-- [ ] Learn Git & GitHub properly
+- [ ] Improve JavaScript
+- [ ] Improve Python
+- [ ] Learn Git & GitHub
 - [ ] Learn modern web development
+- [ ] Build a developer portfolio
 - [ ] Contribute to open source
-- [ ] Build a strong developer portfolio
-
----
-
-## 📚 Currently Learning
-
-```text
-HTML        ████████████████████  100%
-CSS         ███████████████░░░░░   75%
-JavaScript  ██████████░░░░░░░░░░   50%
-Python      ██████████░░░░░░░░░░   50%
-Git/GitHub  ████████████░░░░░░░░   60%
-
-````
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rajanverma7080&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajanverma7080&layout=compact&hide_border=true)
-
-</div>
+- [ ] Become a better developer
 
 ---
 
