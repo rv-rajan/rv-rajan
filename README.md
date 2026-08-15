@@ -78,3 +78,37 @@ CSS         ███████████████░░░░░   75%
 JavaScript  ██████████░░░░░░░░░░   50%
 Python      ██████████░░░░░░░░░░   50%
 Git/GitHub  ████████████░░░░░░░░   60%
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajanverma7080&show_icons=true&hide_border=true&count_private=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanverma7080&layout=compact&hide_border=true" height="180">
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Rajanverma7080">
+  <img src="https://img.shields.io/badge/GitHub-Rajanverma7080-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep coding. 🚀**
+
+</div>
