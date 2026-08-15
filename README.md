@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **interesting software projects**
-- 🌱 I'm currently learning **Machine Learning & Programming**
-- 💡 I enjoy building projects and learning new technologies
-- 🎯 My goal is to become a better developer every day
-- 📫 GitHub: **@Rajanverma7080**
+- 💻 I'm learning **Web Development & Programming**
+- 🌱 Currently improving my skills in **HTML, CSS, JavaScript & Python**
+- 🚀 I enjoy creating projects and experimenting with new technologies
+- 🎯 My goal is to become a skilled software developer
+- 📚 Always learning something new
 
 ---
 
@@ -47,54 +47,34 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔥 **Project 1** | Your best project |
-| 💻 **Project 2** | Another project you're proud of |
-| 🌐 **Project 3** | Your web/software project |
+### 🌐 Web Development
+Projects built using HTML, CSS and JavaScript.
 
-> ⭐ Replace these with your real repositories.
+### 🐍 Python Projects
+Python programs and applications I'm building while learning.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rajanverma7080&show_icons=true&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanverma7080&layout=compact&hide_border=true" height="170">
-
-</div>
+### 💻 More Projects Coming Soon
+I'm continuously working on new projects and improving my skills.
 
 ---
 
 ## 🎯 2026 Goals
 
-- [ ] Build more real-world projects
-- [ ] Improve my programming skills
-- [ ] Learn new technologies
+- [ ] Build real-world projects
+- [ ] Improve JavaScript skills
+- [ ] Improve Python skills
+- [ ] Learn Git & GitHub properly
+- [ ] Learn modern web development
 - [ ] Contribute to open source
-- [ ] Create a strong developer portfolio
+- [ ] Build a strong developer portfolio
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-<p align="center">
-
-<a href="https://github.com/Rajanverma7080">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep coding. Keep learning. Keep building. 🚀**
-
-</div>
+```text
+HTML        ████████████████████  100%
+CSS         ███████████████░░░░░   75%
+JavaScript  ██████████░░░░░░░░░░   50%
+Python      ██████████░░░░░░░░░░   50%
+Git/GitHub  ████████████░░░░░░░░   60%
