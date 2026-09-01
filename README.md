@@ -3,9 +3,10 @@
 # 👋 Hi, I'm Rajan Verma
 
 ### 🤖 AI & ML Enthusiast | 📊 Data Science Learner | 🐍 Python Developer
+
 <p>
   <a href="https://github.com/rv-rajan">
-    <img src="https://img.shields.io/badge/GitHub-rv-rajan-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-rv--rajan-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -23,7 +24,6 @@
 - 🗄️ Learning **SQL and working with data**
 - 🚀 Building projects to turn data into useful insights and intelligent solutions
 - 🎯 My long-term goal is to become an **AI/ML & Data Science professional**
-
 
 ---
 
@@ -98,6 +98,7 @@
 
 | Project | Description |
 |---|---|
+| 🏏 **IPL API Services** | REST API built with Python and Flask for IPL team and player statistics |
 | 🚗 **Arivo_Passenger_App** | Passenger application project |
 | 🚗 **Arivo_Passenger** | Passenger-related project |
 | 🐍 **Assignment_01** | Python assignment |
@@ -128,11 +129,11 @@
 ## 🎯 2026 Goals
 
 - [ ] Build real-world projects
-- [ ] Machine Learning
-- [ ] Data Science
+- [ ] Learn Machine Learning
+- [ ] Learn Data Science
 - [ ] Improve Python
-- [ ] Improve Numpy
-- [ ] Improve Numpy
+- [ ] Improve NumPy
+- [ ] Improve Pandas
 - [ ] Learn Git & GitHub
 - [ ] Learn modern web development
 - [ ] Build a developer portfolio
@@ -146,7 +147,7 @@
 <div align="center">
 
 <a href="https://github.com/rv-rajan">
-  <img src="https://img.shields.io/badge/GitHub-rv-rajan-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-rv--rajan-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
