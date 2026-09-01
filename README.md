@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rv-rajan&show_icons=true&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=rv-rajan&show_icons=true&hide_border=true&rank_icon=github">
 
 </div>
 ---
@@ -77,9 +77,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rv-rajan&hide_border=true" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rv-rajan&theme=github-compact&hide_border=true">
 
-</div>>
+</div>
 
 ---
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rv-rajan&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=rv-rajan&theme=flat&no-frame=true&margin-w=10">
 
 </div>
 
